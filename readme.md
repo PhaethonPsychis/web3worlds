@@ -1,8 +1,8 @@
 
 # Future web3 worlds vision.
 ### To build the future, first, we must visualize it.
-This project proposes to the community and web3 ecosystem to participate in the creation of Future Web3 Worlds Vision through integrated storytelling and curation. 
-Web3 Worlds Vision is not science fiction. The scenario planning is built on top of a web3 rule system, anchored in the current state. Worlds start to evolve when citizens participate, to deliver future realities. 
+This project proposes to the community and web3 ecosystem to participate in the creation of Future Web3 Worlds Vision through integrated storytelling and curation. <br> Each digital asset, serves as part of the storytelling process allowing fans to shape their own scenario for thr future and be a part of the story.<br>
+Web3 Worlds Vision is not science fiction. The world system is built on top of a web3 rule system, anchored in the current state. Worlds evolve  citizens participate, to deliver future realities. 
 Web3 Worlds Vision introduces multiple plausible worlds and their evolution from 2022 to 2070. <br><br>
 
 Each world produces multiple outcomes accross platforms through compelling narratives, evocative designs. 
