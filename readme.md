@@ -12,11 +12,15 @@ Web3 Worlds Vision is not science fiction. The world system is built from a netw
 #### 3. Programmable Web3 has become a future reality system. Any world we prototype we can create in the digital realm. <br>
 In a virtual environment, Programmable Web3 can edit, re-program, and redesign components, systems, and interactions that make up social, economic, and political systems. It is now possible to create Web3 versions of established institutions that run on the internet as coded protocols. Using these "code-blocks" we can form policies to power the operations of an entire city. Programming digital institutions with Web3 we can assembly the operating system of entire digital worlds.
 
-##### 4. Web3 is an innovation built on top of blockchains
+##### 3.1 Explore the potential of web3 to deliver solutions to global challenges. Humans at the center
+Web3 Worlds Vision introduces multiple plausible worlds and their evolution from 2022 to 2070. <br><br>
+
+#### 4. The community can bring a web3 world into existence
+
+#### 5. Web3 is an innovation built on top of blockchains
 Short description of web3's potential and why is worth exploring. what is believed that it can deliver
 
-##### 3.1 Explore the potential of web3 to deliver solutions to global challenges. What is web3, why and how. Humans at the center
-Web3 Worlds Vision introduces multiple plausible worlds and their evolution from 2022 to 2070. <br><br>
+
 
 ##### 3.2 What futures to design
 
