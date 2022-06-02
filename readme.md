@@ -1,19 +1,19 @@
 
-# Future web3 worlds vision.
+# Future Web3 World Vision.
 ## Introduction
 ### To build the future, first, we must visualize it.
 
 
-##### 1. Collective Decentralized Participation
+#### 1. Collective Decentralized Participation
 This project proposes to the community to participate in the creation of "Future Web3-World Vision" through integrated storytelling that takes place on-chain. <br> Each digital asset, serves as part of the storytelling process allowing fans to shape their own scenario for the future and be a part of the story.<br>
 
-##### 2. Future World Systems Design
+#### 2. Future World Systems Design
 Web3 Worlds Vision is not science fiction. The world system is built around a network of web3 institutions that form the rules of the future world. The interactions of people with the institutions create societies that exhibit a multitude of complex behaviours under different conditions. These new worlds are future realities because the starting conditions are anchored in the current state and they evolve based on the design of the institutions. 
 
-#### Web3 has become a future reality system. Any world we prototype we can create in the digital realm. <br>
+#### 3. Programmable Web3 has become a future reality system. Any world we prototype we can create in the digital realm. <br>
 In a virtual environment, Programmable Web3 can edit, re-program, and redesign components, systems, and interactions that make up social, economic, and political systems. It is now possible to create Web3 versions of established institutions that run on the internet as coded protocols. Using these "code-blocks" we can form policies to power the operations of an entire city. Programming digital institutions with Web3 we can assembly the operating system of entire digital worlds.
 
-##### Web3 emerged from the blockchains movement
+##### 4. Web3 is an innovation built on top of blockchains
 Short description of web3's potential and why is worth exploring. what is believed that it can deliver
 
 ##### 3.1 Explore the potential of web3 to deliver solutions to global challenges. What is web3, why and how. Humans at the center
