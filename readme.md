@@ -10,7 +10,10 @@ This project proposes to the community to participate in the creation of "Future
 ##### Web3 emerged from the blockchains movement
 Short description of web3's potential and why is worth exploring. what is believed that it can deliver
 ##### 2. Future World Systems Design
-Web3 Worlds Vision is not science fiction. The world system is built on top of a web3 rule system, anchored in the current state. Worlds evolve  citizens participate, to deliver future realities. 
+Web3 Worlds Vision is not science fiction. The world system is built around a simple rule system that is assembled by web3 protocols that form the new institutions of the future world. The interactions of people under different scenarios creates the complex behaviour that generates the future. These new worlds are anchored in the current state
+
+
+The created worlds are reality-based. The starting conditions are the current state and the world evolves according to a rule system defined by smart contracts and community interactions. 
 
 ##### 3.1 Explore the potential of web3 to deliver solutions to global challenges. What is web3, why and how. Humans at the center
 Web3 Worlds Vision introduces multiple plausible worlds and their evolution from 2022 to 2070. <br><br>
@@ -31,8 +34,7 @@ the TINKCAN TOKEN, a design research pilot exploring the potential and capacity 
  interactive cyber-physical policy systems 
 
 
-Tincan Token does this by constructing Synthetic Web3 Worlds through a Decentralized Worldbuilding process. It is a Design Research methodology, that Tincan Token develops,  
-At the center of the web3 world-building process is the construction of worlds built on top of web3 rule systems. The created worlds are reality-based. The starting conditions are the current state and the world evolves according to a rule system defined by smart contracts and community interactions. 
+
 
 We can experience These worlds through digital media, interactive virtual environments, and dapps.
 
