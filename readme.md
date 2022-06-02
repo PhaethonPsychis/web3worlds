@@ -1,7 +1,6 @@
 
 # Future Web3 World Vision.
-## Introduction
-### To build the future, first, we must visualize it.
+## To build the future, first, we must visualize it.
 
 
 #### 1. Collective Decentralized Participation
