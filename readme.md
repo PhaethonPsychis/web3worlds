@@ -1,23 +1,40 @@
 
 # Future web3 worlds vision.
+## Introduction
 ### To build the future, first, we must visualize it.
-This project proposes to the community and web3 ecosystem to participate in the creation of Future Web3 Worlds Vision through integrated storytelling and curation. <br> Each digital asset, serves as part of the storytelling process allowing fans to shape their own scenario for thr future and be a part of the story.<br>
+
+
+##### 1. Collective Decentralized Participation
+This project proposes to the community to participate in the creation of "Future Web3-World Vision" through integrated storytelling. <br> Each digital asset, serves as part of the storytelling process allowing fans to shape their own scenario for the future and be a part of the story.<br>
+
+##### Web3 emerged from the blockchains movement
+Short description of web3's potential and why is worth exploring. what is believed that it can deliver
+##### 2. Future World Systems Design
 Web3 Worlds Vision is not science fiction. The world system is built on top of a web3 rule system, anchored in the current state. Worlds evolve  citizens participate, to deliver future realities. 
+
+##### 3.1 Explore the potential of web3 to deliver solutions to global challenges. What is web3, why and how. Humans at the center
 Web3 Worlds Vision introduces multiple plausible worlds and their evolution from 2022 to 2070. <br><br>
 
-Each world produces multiple outcomes accross platforms through compelling narratives, evocative designs. 
-## Project Rationale
-the TINKCAN TOKEN, a design research pilot exploring the potential and capacity of the programmable web3 to inform the strategic design of, and transition towards, collective futures that are good for the Earth: climate-positive worlds, super cities ... are obvious futures
- This project intends to bring to life the future of cyber-physical realities. 
+##### 3.2 What futures to design
 
+##### 4. Explore the capacity of community to provoke change
+
+##### 5. Deliverables. Benefits for participants
+Each world produces multiple outcomes accross platforms. 
+
+## Project Rationale
+
+##### 1. Why explore web3 potential
 The idea that web3  can inform the design of alternative futures, and that communities can use web3 systems to provoke desired realities into existence is a powerful one to explore. 
+##### 1. How to explore
+the TINKCAN TOKEN, a design research pilot exploring the potential and capacity of the programmable web3 to inform the strategic design of, and transition towards, collective futures that are good for the Earth: climate-positive worlds, super cities ... are obvious futures
+ interactive cyber-physical policy systems 
+
+
 Tincan Token does this by constructing Synthetic Web3 Worlds through a Decentralized Worldbuilding process. It is a Design Research methodology, that Tincan Token develops,  
 At the center of the web3 world-building process is the construction of worlds built on top of web3 rule systems. The created worlds are reality-based. The starting conditions are the current state and the world evolves according to a rule system defined by smart contracts and community interactions. 
-Through compelling narratives and design.
+
 We can experience These worlds through digital media, interactive virtual environments, and dapps.
-
-
-
 
 ### The problems to solve
 Yet community-led and owned, open-source design research activity does not exist.<br> nor 
@@ -47,40 +64,32 @@ The next level is to explore if it is possible to create Cyber to physical syste
 
 #### The community has become a disrupting force. 
 The community has the potential to play a key role in society, given that they are involved in the design and depiction of complex, web3 alternative realities set in the future. 
-The experiment goes beyond user-centric worlds, to re-imagine the role of the community and explore our place within the visions of our Web3 futures to ensure fairness.
+The experiment re-imagines the role of the community and explore our place within the visions of our Web3 futures to ensure fairness.
 
 Web3 institutions and cyber to physical systems have a wide range of applications that could transform society and the global economy. 
 
 ### SYNTHETIC WEB3 WORLDS 
+##### Intro
+Web3 Synthetic Worlds pair language and Narrative with programmable blocks. This combination creates a unique and unparallel experimental environment that does not exist in other simulation systems except from digital games. They enable the testing of socio-economic and political systems at scale. With the use of language and narratives we can transition the world from one state to another.<br>
+Example: What conversations can emerge in...<br> These properties are unique among simulation environments and enable the testing of large scale projects before the project is built.<br>
 
-Web3 experimental environments<br>
-Web3 Synthetic Worlds are unique and unparallel experimental environments. <br>
-With the use of narratives we can... 
-Building prototypes of these worlds will enable communities and organizations to envision, experience, and explore desirable realities. for exploring and interacting with alternative futures for businesses and governments.  <br>
+Building prototypes of these worlds will enable communities and organizations to envision, experience, and explore desirable realities. and take the necessary steps now to realize these futures.<br>
 
-#### Web3 world system
+##### Web3 world system
 web3 protocols create the world system that allows the world to function, evolve and grow. In these "world prototypes" what could happen in the future is based on what protocols are deployed, and what is happening in the present.  
 This world-building process employs narratives design within a container constructed with the technological framework of web3. 
-World building prototypes would allow communities to make sense of these futuristic worlds and take the necessary steps now to realize these futures.
 
 
 In doing so, they allow us to not just tinker with the status quo, but to dismantle it and build something better in its place. 
 Building projective futures we can show people that other realities are possible and that web3 can help us get there. If we can show that web3  can help to create a brighter future and we map the path to it, we will all rush towards that outcome or not.
 
-#### A web3 world is a coordination system
+##### A web3 world is a coordination system
 Envisioning these worlds and the novel possibilities becoming available can serve as a coordination mechanism to demonstrate how web3 can become a central component of plausible futures. 
 
-#### A web3 world is a map toward a future state
+##### A web3 world is a map toward a future state
 Worlds serve as a map of how to arrive at the future from the current state.
 
-#### A DECENTRALIZED AGENCY FOR THE FUTURE 
-Collective against biased  
-Decentralized participation is at the core of this experiment. In this era of unprecedented change, no single organization can begin to design unexpected solutions that disrupt conventional thinking without deep collaboration between the various types of users, communities, and local governance.
 
-### TOKENIZING INCENTIVES AND OUR DESIRE TO CREATE CHANGE: A MECHANISM TO ATTRACT TALENT AND COMMUNITY PARTICIPATION
 
-  
-#### Introducing Token incentives to attract talent and fund works
-Because web3 is not a blockchain it doesn’t offer the same reward mechanisms or token incentives to contributors as blockchains, applications or L2s can. However, designing the future of web3 still needs to attract talent.
-If we believe web3 empowers communities to design and form their future, then it is important to put in place incentives to attract talent to start working on the creation of prototypes and web3 worlds.
+
 
