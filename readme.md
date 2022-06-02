@@ -6,28 +6,18 @@
 #### 1. Collective Decentralized Participation
 This project proposes to the community to participate in the creation of "Future Web3-World Vision" through integrated storytelling that takes place on-chain. <br> Each digital asset, serves as part of the storytelling process allowing fans to shape their own scenario for the future and be a part of the story.<br>
 
-#### 2. Future World Systems Design
+#### 2. Future Worlds
+Future Web3 World Vision is looking inside deeply researched, wholly plausible future worlds, allowing communities to plan for tomorrow with the web3 technologies of today. The Super City of 50+ million people, a Climate-positive World, and a future reality where the entire population of a city is connected to a web3 system enabling cyber to physical world interactions through access to real-world data are some of the worlds introduced.
+
+#### 4. Deliverables
+Each prototype produces outcomes across multiple platforms. Using high fidelity media, and a visual language we can all understand we can show people that other realities are possible and that web3 can help us get there. If we map the path to a brighter future, many will join to work towards that outcome.
+
+#### 5. World Systems Design
 Web3 Worlds Vision is not science fiction. The world system is built from a network of web3 institutions that form the rules of the future world. The interactions of people with institutions create societies that exhibit a multitude of complex behaviours under different conditions. These new worlds are future realities because the starting conditions are anchored in the current state and they evolve based on the design of the institutions. 
 
-#### 3. Programmable Web3 has become a future reality system. Any world we prototype we can create in the digital realm. <br>
-In a virtual environment, Programmable Web3 can edit, re-program, and redesign components, systems, and interactions that make up social, economic, and political systems. It is now possible to create Web3 versions of established institutions that run on the internet as coded protocols. Using these "code-blocks" we can form policies to power the operations of an entire city. Programming digital institutions with Web3 we can assembly the operating system of entire digital worlds.
+#### 6. Programmable Web3 has become a future reality system. Any world we prototype Communities can bring into existence. <br>
+Programmable Web3 can edit, re-program, and redesign components, systems, and interactions that make up social, economic, and political systems. "Web3 has stunned the world by forging a parallel system of finance of unprecedented flexibility and creativity in less than a decade." This demonstrates the disrupting power of communities to bring future realities into existence with the use of web3 systems within the online internet environment. By pairing elements of the physical world with digital assets it is possible to create interactions and systems between realities that can serve as the operating system of entire cities.
 
-##### 3.1 Explore the potential of web3 to deliver solutions to global challenges. Humans at the center
-Web3 Worlds Vision introduces multiple plausible worlds and their evolution from 2022 to 2070. <br><br>
-
-#### 4. The community can bring a web3 world into existence
-
-#### 5. Web3 is an innovation built on top of blockchains
-Short description of web3's potential and why is worth exploring. what is believed that it can deliver
-
-
-
-##### 3.2 What futures to design
-
-##### 4. Explore the capacity of community to provoke change
-
-##### 5. Deliverables. Benefits for participants
-Each world produces multiple outcomes accross platforms. 
 
 ## Project Rationale
 
@@ -37,10 +27,6 @@ The idea that web3  can inform the design of alternative futures, and that commu
 the TINKCAN TOKEN, a design research pilot exploring the potential and capacity of the programmable web3 to inform the strategic design of, and transition towards, collective futures that are good for the Earth: climate-positive worlds, super cities ... are obvious futures
  interactive cyber-physical policy systems 
 
-
-
-
-We can experience These worlds through digital media, interactive virtual environments, and dapps.
 
 ### The problems to solve
 Yet community-led and owned, open-source design research activity does not exist.<br> nor 
@@ -57,20 +43,6 @@ How can we form our world into the one we want rather than the one that may be a
 The decentralized Worldbuilding and visual language.<br>
 
 There are three main motivations as to why we need to explore the potential of web3 to its full extent, why use a decentralized worldbuilding method to do it, and the new incentives mechanism.
-
-## THE THREE MOTIVATIONS TO EXPLORE THE POTENTIAL OF WEB3
-#### Web3 has become a future reality-based system. Any world we prototype we can create. <br>
-Programmable Web3 can edit, re-program, and redesign components, systems, and interactions that make up social, economic, and political systems. 
-Web3 versions of established institutions running on the internet as coded protocols are now possible. Primary protocols form assemblies of organizational structures that can create the operating system of an entire city. <br>
-
-#### Web3 systems can provoke themselves into existence
-"Web3 has stunned the world by forging a parallel system of finance of unprecedented flexibility and creativity in less than a decade." This demonstrates that in the online world of the internet, web3 systems can provoke themselves into existence. 
-Because social consensus and economic incentives are embedded into their design and enforced at deployment, web3 systems create decentralized networks that grow autonomously.
-The next level is to explore if it is possible to create Cyber to physical systems that scale. [...are obvious]
-
-#### The community has become a disrupting force. 
-The community has the potential to play a key role in society, given that they are involved in the design and depiction of complex, web3 alternative realities set in the future. 
-The experiment re-imagines the role of the community and explore our place within the visions of our Web3 futures to ensure fairness.
 
 Web3 institutions and cyber to physical systems have a wide range of applications that could transform society and the global economy. 
 
