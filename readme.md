@@ -18,7 +18,7 @@ Web3 Worlds Vision is not science fiction. The world system is built from a netw
 #### 6. Programmable Web3 has become a future reality system. Any world we prototype Communities can bring into existence. <br>
 Programmable Web3 can edit, re-program, and redesign components, systems, and interactions that make up social, economic, and political systems. "Web3 has stunned the world by forging a parallel system of finance of unprecedented flexibility and creativity in less than a decade." This demonstrates the disrupting power of communities to bring future realities into existence with the use of web3 systems within the online internet environment. By pairing elements of the physical world with digital assets it is possible to create interactions and systems between realities that can serve as the operating system of entire cities.
 
-
+----------to do ------
 ## Project Rationale
 
 ##### 1. Why explore web3 potential
@@ -39,9 +39,6 @@ and How to avoid the biases of the few when exploring the plausible futures of w
 How can communities leverage the programmable web3 to bring future realities into existence?<br>
 How can we help society envision solutions to long-term global challenges, get exposure, and experience future realities?<br>
 How can we form our world into the one we want rather than the one that may be available to us in the face of mass challenges?<br>
-### How this project will answer these questions
-The decentralized Worldbuilding and visual language.<br>
-
 There are three main motivations as to why we need to explore the potential of web3 to its full extent, why use a decentralized worldbuilding method to do it, and the new incentives mechanism.
 
 Web3 institutions and cyber to physical systems have a wide range of applications that could transform society and the global economy. 
