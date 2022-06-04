@@ -4,7 +4,9 @@
 
 
 #### 1. Collective Decentralized Participation
-This project proposes to the community to participate in the creation of "Future Web3-World Vision" through integrated storytelling that takes place on-chain. <br> Each digital asset, serves as part of the storytelling process allowing fans to shape their own scenario for the future and be a part of the story.<br>
+This project proposes to the community to participate in the making of the Future Web3-World Vision to create many shared visions and form the future. The project will envision an array of city worlds at three, fifteen and fifty year time horizons starting from 2022. The project will explore possible future scenarios integrating web3 technologies in different degrees and levels. 
+Digital assets serve as part of the decentralized and integrated storytelling process allowing fans to shape their own scenario for the future pushing what’s possible with web3. Members will gain access to an unprecedented three-year journey that takes place on-chain. Members will be able to  vote on key aspects of the project, including storyline, characters, and to help drive the ongoing narrative of the future. 
+
 
 #### 2. Future Worlds
 Future Web3 World Vision is looking inside deeply researched, wholly plausible future worlds, allowing communities to plan for tomorrow with the web3 technologies of today. The Super City of 50+ million people, a Climate-positive World, and a future reality where the entire population of a city is connected to a web3 system enabling cyber to physical world interactions through access to real-world data are some of the worlds introduced.
