@@ -10,8 +10,13 @@ This project proposes to the community to participate in the making of the Futur
 #### 2. Future Worlds
 Future Web3 World Vision is looking inside deeply researched, wholly plausible future worlds, allowing communities to plan for tomorrow with the web3 technologies of today. The Super City of 50+ million people, a Climate-positive World, and a future reality where the entire population of a city is connected to a web3 system enabling cyber to physical world interactions through access to real-world data are some of the worlds introduced.
 
+### SYNTHETIC WEB3 WORLDS 
+Web3 Worlds Vision is not science fiction. Web3 Synthetic Worlds pair language and Narrative with programmable policies and digital assets. These prototypes create future realities because the starting conditions are anchored in the current state and they evolve based on the design of the institutions. What could happen in the future is based on what is happening in the present and how we program the institutions that will take us into the future. This is  the world system that allows the world to function, evolve and grow. With the world-system we can transition the future from one state to another.<br><br>
+This combination creates an unparallel experimental environment that is novel and unique. It enables the design and testing of socio-economic and political systems, and of large scale projects before the future is built.*** In doing so, they allow us to not just tinker with the status quo, but to dismantle it and build something better in its place.<br><br>
+A Prototype is a coordination tool and a map towards a future. Envisioning these worlds and the novel possibilities becoming available serve as a coordination mechanism to demonstrate how web3 can become a central component of plausible futures. If we can show that web3  can help to create a brighter future and we map the path to it, we will all rush towards that outcome. Prototypes serve as a map of how to arrive at the future from the current state.
+
 #### 4. Deliverables
-Each prototype produces outcomes across multiple platforms. Using high fidelity media, and a visual language we can all understand we can show people that other realities are possible and that web3 can help us get there. If we map the path to a brighter future, many will join to work towards that outcome.
+Each prototype produces outcomes across multiple platforms. 
 
 #### 5. World Systems Design
 Web3 Worlds Vision is not science fiction. The world system is built from a network of web3 institutions that form the rules of the future world. The interactions of people with institutions create societies that exhibit a multitude of complex behaviours under different conditions. These new worlds are future realities because the starting conditions are anchored in the current state and they evolve based on the design of the institutions. 
@@ -22,11 +27,8 @@ Programmable Web3 can edit, re-program, and redesign components, systems, and in
 ----------to do ------
 ## Project Rationale
 
-##### 1. Why explore web3 potential
-The idea that web3  can inform the design of alternative futures, and that communities can use web3 systems to provoke desired realities into existence is a powerful one to explore. 
-##### 1. How to explore
-the TINKCAN TOKEN, a design research pilot exploring the potential and capacity of the programmable web3 to inform the strategic design of, and transition towards, collective futures that are good for the Earth: climate-positive worlds, super cities ... are obvious futures
- interactive cyber-physical policy systems 
+Web3 is one of the most succesful and unexpected outcomes of the blockchain movement. The idea that web3  can inform the design of alternative futures, and that communities can use web3 systems to provoke desired realities into existence is a powerful one to explore. It brings an outstanding opportunity for society and benefits each individual. Using web3 we can design and deploy new complex policy systems that involve a greater choice of institutions:
+
 
 
 ### The problems to solve
@@ -44,26 +46,10 @@ There are three main motivations as to why we need to explore the potential of w
 
 Web3 institutions and cyber to physical systems have a wide range of applications that could transform society and the global economy. 
 
-### SYNTHETIC WEB3 WORLDS 
-##### Intro
-Web3 Synthetic Worlds pair language and Narrative with programmable blocks. This combination creates a unique and unparallel experimental environment that does not exist in other simulation systems except from digital games. They enable the testing of socio-economic and political systems at scale. With the use of language and narratives we can transition the world from one state to another.<br>
-Example: What conversations can emerge in...<br> These properties are unique among simulation environments and enable the testing of large scale projects before the project is built.<br>
-
-Building prototypes of these worlds will enable communities and organizations to envision, experience, and explore desirable realities. and take the necessary steps now to realize these futures.<br>
-
-##### Web3 world system
-web3 protocols create the world system that allows the world to function, evolve and grow. In these "world prototypes" what could happen in the future is based on what protocols are deployed, and what is happening in the present.  
-This world-building process employs narratives design within a container constructed with the technological framework of web3. 
 
 
-In doing so, they allow us to not just tinker with the status quo, but to dismantle it and build something better in its place. 
-Building projective futures we can show people that other realities are possible and that web3 can help us get there. If we can show that web3  can help to create a brighter future and we map the path to it, we will all rush towards that outcome or not.
 
-##### A web3 world is a coordination system
-Envisioning these worlds and the novel possibilities becoming available can serve as a coordination mechanism to demonstrate how web3 can become a central component of plausible futures. 
 
-##### A web3 world is a map toward a future state
-Worlds serve as a map of how to arrive at the future from the current state.
 
 
 
