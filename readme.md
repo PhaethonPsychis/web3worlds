@@ -3,7 +3,7 @@
 ## To build the future, first, we must visualize it.
 
 
-#### WORLD PROTOTYPES PROVOKE CHANGE
+#### WEB3 WORLD PROTOTYPES PROVOKE CHANGE
 This project proposes to the community to participate in the making of the Future Web3-World Vision to create many shared visions and form the future. The project will envision an array of city worlds at three, fifteen, and fifty-year time horizons starting from 2022. The project will explore possible future scenarios integrating web3 technologies in different degrees and levels. Digital assets serve as part of the decentralized and integrated storytelling process allowing fans to shape their scenario for the future pushing what’s possible with web3. Members will gain access to an unprecedented three-year journey that takes place on-chain. Members will be able to vote on key aspects of the project, including storyline, and characters, and to help drive the ongoing narrative of the future.
 
 #### FUTURE WEB3 WORLDS
