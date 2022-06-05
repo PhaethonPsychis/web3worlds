@@ -18,8 +18,6 @@ A Prototype is a coordination tool and a map towards a future. Envisioning these
 #### 4. Deliverables
 Each prototype produces outcomes across multiple platforms. 
 
-#### 5. World Systems Design
-Web3 Worlds Vision is not science fiction. The world system is built from a network of web3 institutions that form the rules of the future world. The interactions of people with institutions create societies that exhibit a multitude of complex behaviours under different conditions. These new worlds are future realities because the starting conditions are anchored in the current state and they evolve based on the design of the institutions. 
 
 #### 6. Programmable Web3 has become a future reality system. Any world we prototype Communities can bring into existence. <br>
 Programmable Web3 can edit, re-program, and redesign components, systems, and interactions that make up social, economic, and political systems. "Web3 has stunned the world by forging a parallel system of finance of unprecedented flexibility and creativity in less than a decade." This demonstrates the disrupting power of communities to bring future realities into existence with the use of web3 systems within the online internet environment. By pairing elements of the physical world with digital assets it is possible to create interactions and systems between realities that can serve as the operating system of entire cities.
