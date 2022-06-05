@@ -33,8 +33,8 @@ If we believe web3 empowers communities to design and form their future, then it
 
 #### PROTOCOL MECHANISMS
 The Future Web3Worlds Vision aims to address the challenges mentioned above with a toolset that includes: <br>
-A protocol to ask for sponsorships in the form of tokens from applications & protocols that build the web3 ecosystem which gives sponsors exposure to the worldbuilding project.  Here’s a link to a project that inspired this protocol. <br>
-A membership token to enable the community to contribute to the project and reward participation.
+   A protocol to ask for sponsorships in the form of tokens from applications & protocols that build the web3 ecosystem which gives sponsors exposure to the worldbuilding project.  Here’s a link to a project that inspired this protocol. <br>
+   A membership token to enable the community to contribute to the project and reward participation.
 
 
 
