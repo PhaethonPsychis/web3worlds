@@ -23,17 +23,18 @@ Using high fidelity media, and a visual language we can all understand we can sh
  
 ## Project Rationale
 
-Web3 is one of the most succesful and unexpected outcomes of the blockchain movement and yet community-led, open-source design research activity to explore large scale applications of web3 does not exist. The idea that web3  can inform the design of alternative futures, and that communities can use web3 systems to provoke desired realities into existence is a powerful one to explore.
-The promising transformational power of web3, if indeed exists, remains sofar unused because it is too complex and daunting for anyone to tackle alone. In this era of unprecedented change, no single team or organization can begin to design unexpected solutions that disrupt conventional thinking without deep collaboration between ecosystem players, communities, and local governance. 
+Exploring the potential of web3 to its fullest extent is highly valuable because we can identify a number of different plausible future scenarios, explore what impacts they could have, and identify promising paths for technologies and applications. It will also enable communities, to strengthen their foresight capacity and play a critical role in shaping the web3 ecosystem.
+And yet community-led, open-source design research activity that combines strategic foresight with systems thinking and design do not exist.<br>
 
-Because web3 is not a closed system it doesn’t offer the same reward mechanisms or token incentives to contributors as blockchains, applications or L2s can. However, designing the future of web3 still needs to attract talent. If we believe web3 empowers communities to design and form their future, then it is important to put in place incentives to attract talent to start working on the creation of prototypes and web3 worlds.
+One of the reasons the transformational power of web3 remains so far unexplored is because it is too complex and daunting for anyone to tackle alone. In this era of unprecedented change, no single team or organization can begin to design unexpected solutions that disrupt conventional thinking without deep collaboration between ecosystem developers, communities, and local governance.<br>
+Because web3 is not a closed system it doesn’t offer reward mechanisms or token incentives to contributors as blockchains, applications or L2s can. We will have to put in place a number of funding mechanisms to attract talent, sponsors, and the community.<br>
+If we believe web3 empowers communities to design and form their future, then it is important to put in place incentives to attract talent to start working on the creation of prototypes and web3 worlds.<br>
 
-Introducing Token incentives to attract talent and fund works
+#### PROTOCOL MECHANISMS
+The Future Web3Worlds Vision aims to address the challenges mentioned above with a toolset that includes: <br>
+A protocol to ask for sponsorships in the form of tokens from applications & protocols that build the web3 ecosystem which gives sponsors exposure to the worldbuilding project.  Here’s a link to a project that inspired this protocol. <br>
+A membership token to enable the community to contribute to the project and reward participation.
 
-
-### The problems to solve
-
-and How to avoid the biases of the few when exploring the plausible futures of web3 that can be made available? <br>
 
 
 
