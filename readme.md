@@ -23,7 +23,7 @@ Using high fidelity media, and a visual language we can all understand we can sh
  
 ## Project Rationale
 
-Exploring the potential of web3 to its fullest extent is highly valuable because we can identify a number of different plausible future scenarios, explore what impacts they could have, and identify promising paths for technologies and applications. It will also enable communities, to strengthen their foresight capacity and play a critical role in shaping the web3 ecosystem.
+Exploring the potential of web3 to its fullest extent is highly valuable because we can identify a number of different plausible future scenarios, explore what impacts they could have, and identify promising paths for technologies and applications. It will also enable communities, to strengthen their foresight capacity and play a critical role in shaping the web3 ecosystem.<br><br>
 And yet community-led, open-source design research activity that combines strategic foresight with systems thinking and design do not exist.<br>
 
 One of the reasons the transformational power of web3 remains so far unexplored is because it is too complex and daunting for anyone to tackle alone. In this era of unprecedented change, no single team or organization can begin to design unexpected solutions that disrupt conventional thinking without deep collaboration between ecosystem developers, communities, and local governance.<br>
