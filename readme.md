@@ -23,7 +23,7 @@ Using high fidelity media, and a visual language we can all understand we can sh
  
 ## Project Rationale
 
-Exploring the potential of web3 to its fullest extent is highly valuable because we can identify a number of different plausible future scenarios, explore what impacts they could have, and identify promising paths for technologies and applications. Envisiong web3 will strengthen the foresight capacity of communities and their critical role in safe fuarding and shaping the web3 ecosystem.<br><br>
+Exploring the potential of web3 to its fullest extent is highly valuable because we can identify a number of different plausible future scenarios, explore what impacts they could have, and identify promising paths for technologies and applications. Envisiong web3 will strengthen the foresight capacity of communities and their critical role as guardian of the web3 ecosystem and shaping its future.<br><br>
 And yet community-led, open-source design research activity that combines strategic foresight with systems thinking and design do not exist. There is also a luck in resources and incentives to fund this strategic worldbuilding project.<br><br>
 Because web3 is not a closed system it doesn’t offer reward mechanisms or token incentives to contributors as blockchains, applications or L2s can. We will have to put in place a number of funding mechanisms to attract talent, sponsors, and the community.<br><br>
 
@@ -35,6 +35,12 @@ If we believe web3 empowers communities to design and form their future, then it
 The Future Web3Worlds Vision aims to address the challenges mentioned above with a toolset that includes: <br>
 1. A protocol to ask for sponsorships in the form of tokens from applications & protocols that build the web3 ecosystem which gives sponsors exposure to the worldbuilding project.  Here’s a link to a project that inspired this protocol[GitHub Pages](https://pages.github.com/). <br>
 2. A membership token to enable the community to contribute to the project and reward participation.
+
+## Pilot 2022: The first launch
+We’re running a 1 year Pilot to test our assumptions about this project and how to operate it.
+To prepare for launch, there are a few tasks we want to properly complete:
+* We are selling a membership NFT the $TINCAN Token to start engaging with the community link here
+* Tincan calls on all talent that wants to use their skills and passion to guide the exploration of web3 and our possible future states. The call includes schools of Worldbuilding, Architecture, Urbanism, Foresight, Science Fiction, Design, Cinematography 
 
 
 
